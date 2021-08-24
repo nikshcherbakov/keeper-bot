@@ -54,3 +54,7 @@ The workflow can be described in the following way:
 2. Entered text is cleaned, non-target words get removed
 3. The cleaned text is vectorized using Bag Of Words strategy
 4. ML model predicts the probability of each of five expenditures categories (Public utilities, Food, Transportation, Health and Entertainment). If maximum probability is less than a specific threshold value, the expenditure from user's message is classified as `"Other"`.
+
+## Usage Notes
+
+Note, that all the python libraries and dependencies are ommited for memory saving. In case you want to use the project, please, do not forget to install all the dependencies used in the project.
