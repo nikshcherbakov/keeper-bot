@@ -57,4 +57,4 @@ The workflow can be described in the following way:
 
 ## Usage Notes
 
-Note, that all the python libraries and dependencies are ommited for memory saving. In case you want to use the project, please, do not forget to install all the dependencies used in the project.
+Note, that all the python libraries and dependencies are omitted for memory saving. In case you want to use the project, please, do not forget to install all the dependencies used in the project.
