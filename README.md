@@ -5,7 +5,7 @@
 ## Main Features
 1. Convenient way to analyze how much you spend on different kinds of spendings
 2. Embedded machine learning model to process native language
-3. Nice Matplotlib diagrams sent directly to a user by telegram
+4. Nice Matplotlib diagrams sent directly to a user by telegram
 
 ## Description
 
@@ -54,6 +54,10 @@ The workflow can be described in the following way:
 2. Entered text is cleaned, non-target words get removed
 3. The cleaned text is vectorized using Bag Of Words strategy
 4. ML model predicts the probability of each of five expenditures categories (Public utilities, Food, Transportation, Health and Entertainment). If maximum probability is less than a specific threshold value, the expenditure from user's message is classified as `"Other"`.
+
+<p align="center">
+   <img width="190" alt="keeper-demo" src="https://user-images.githubusercontent.com/74429654/130601047-83ed61c8-1f02-4d80-84f8-e0009f3241be.png">
+</p>
 
 ## Usage Notes
 
