@@ -56,7 +56,8 @@ The workflow can be described in the following way:
 4. ML model predicts the probability of each of five expenditures categories (Public utilities, Food, Transportation, Health and Entertainment). If maximum probability is less than a specific threshold value, the expenditure from user's message is classified as `"Other"`.
 
 <p align="center">
-   <img width="190" alt="keeper-demo" src="https://user-images.githubusercontent.com/74429654/130601047-83ed61c8-1f02-4d80-84f8-e0009f3241be.png">
+   <img height="450" alt="keeper-demo" src="https://user-images.githubusercontent.com/74429654/130601047-83ed61c8-1f02-4d80-84f8-e0009f3241be.png">
+   <img height="450" alt="keeper-demo2" src="https://user-images.githubusercontent.com/74429654/130601624-a97f0e27-0ee8-4cff-a046-a11ef0d54e0f.png">
 </p>
 
 ## Usage Notes
